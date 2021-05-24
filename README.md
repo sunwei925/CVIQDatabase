@@ -18,6 +18,10 @@ The images with names from 1\*n to 11\*n are compressed by JPEG, with names from
 
 The CVIQ.mat file contains the MOS for each image.
 
+## MC360IQA
+The MC360IQA model can be download from:
+<https://github.com/sunwei925/MC360IQA>.
+
 ## Citation
 **If you use CVIQ Database in your research, please cite**:
 ```
